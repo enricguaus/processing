@@ -23,8 +23,9 @@ Sonology Department @ Escola Superior de Música de Catalunya (ESMUC)<br>
 </ul>
 
 <h3>Practice</h3>
-<a href="https://github.com/enricguaus/ESMUC-TP1/tree/master/session02">Code</a> for Session02.
 <ul>
 <li>Declare, Init and Use variables
 <li>Setup (Only once) Draw (Loop) and keyPressed (Interrupt)
 </ul>
+Code for <a href="https://github.com/enricguaus/ESMUC-TP1/tree/master/session02">Session 02</a>.
+
