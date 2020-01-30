@@ -3,20 +3,26 @@ Enric Guaus<br>
 Sonology Department @ Escola Superior de Música de Catalunya (ESMUC)<br>
 
 
-<h2>1st session</h2>
+<h2>Session 1</h2>
 
-<ul>Concepts
+<h3>Concepts</h3>
+<ul>
 <li>Introduction to programming
 <li>Interpreted vs Compiled languages
 <li>Algorith: Data, functions and control structures
 </ul>
 
-2nd session
-- Concepts
-* Use of References and Internet searches
-* Types of variables: Boolean; Integer; Float; Long; Double.
-* Control structures: If-else
-- Practice
-* Declare, Init and Use variables
-* Setup (Only once) Draw (Loop) and keyPressed (Interrupt)
+<h2>Session 2</h2>
 
+<h3>Concepts</h3>
+<ul>
+<li>Use of References and Internet searches
+<li>Types of variables: Boolean; Integer; Float; Long; Double.
+<li>Control structures: If-else
+</ul>
+
+<h3>Practice</h3>
+<ul>
+<li>Declare, Init and Use variables
+<li>Setup (Only once) Draw (Loop) and keyPressed (Interrupt)
+</ul>
