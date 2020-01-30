@@ -7,25 +7,25 @@ Sonology Department @ Escola Superior de Música de Catalunya (ESMUC)<br>
 
 <h3>Concepts</h3>
 <ul>
-<li>Introduction to programming
-<li>Interpreted vs Compiled languages
-<li>Algorith: Data, functions and control structures
-<li>Introduction to Processing
+<li>Introduction to programming.
+<li>Interpreted vs Compiled languages.
+<li>Algorith: Data, functions and control structures.
+<li>Introduction to Processing.
 </ul>
 
 <h2>Session 02</h2>
 
 <h3>Concepts</h3>
 <ul>
-<li>Use of References and Internet searches
+<li>Use of References and Internet searches.
 <li>Types of variables: Boolean; Integer; Float; Long; Double.
-<li>Control structures: If-else
+<li>Control structures: If-else.
 </ul>
 
 <h3>Practice</h3>
 <ul>
-<li>Declare, Init and Use variables
-<li>Setup (Only once) Draw (Loop) and keyPressed (Interrupt)
+<li>Declare, Init and Use variables.
+<li>setup() (Only once) draw() (Loop) and keyPressed() (Interrupt) functions.
 </ul>
 Code for <a href="https://github.com/enricguaus/ESMUC-TP1/tree/master/session02">Session 02</a>.
 
