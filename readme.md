@@ -46,3 +46,21 @@ Code for <a href="https://github.com/enricguaus/ESMUC-TP1/tree/master/session02"
 </ul>
 Code for <a href="https://github.com/enricguaus/ESMUC-TP1/tree/master/session03">Session 03</a>
 
+<h2>Session 04</h2>
+
+<h3>Concepts</h3>
+<ul>
+<li>Types of variables: Char (and ASCII table) and Strings
+<li>Objects: Data and methods
+<li>Control structures: Switch
+</ul>
+
+<h3>Practice</h3>
+<ul>
+<li>Converting from char to int and viceversa.
+<li>Using Strings as an Array of chars
+<li>Accessing methods in the String object
+<li>Using switch with all its options (break, default...)
+</ul>
+Code for <a href="https://github.com/enricguaus/ESMUC-TP1/tree/master/session04">Session 04</a>
+
