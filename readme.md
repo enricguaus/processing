@@ -80,3 +80,18 @@ Code for <a href="https://github.com/enricguaus/ESMUC-TP1/tree/master/session04"
 <li>Adapting code from the Internet.
 </ul>
 Code for <a href="https://github.com/enricguaus/ESMUC-TP1/tree/master/session05">Session 05</a>
+
+<h2>Session 06</h2>
+
+<h3>Concepts</h3>
+<ul>
+<li>Functions: Passing and returning arrays in a function.
+<li>Files: Read a txt file
+</ul>
+
+<h3>Practice</h3>
+<ul>
+<li>The Swap function
+<li>Reading a .txt file into a String[]
+</ul>
+Code for <a href="https://github.com/enricguaus/ESMUC-TP1/tree/master/session06">Session 06</a>
