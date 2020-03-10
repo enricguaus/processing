@@ -86,12 +86,28 @@ Code for <a href="https://github.com/enricguaus/ESMUC-TP1/tree/master/session05"
 <h3>Concepts</h3>
 <ul>
 <li>Functions: Passing and returning arrays in a function.
-<li>Files: Read a txt file
+<li>Files: Read a txt file.
 </ul>
 
 <h3>Practice</h3>
 <ul>
-<li>The Swap function
-<li>Reading a .txt file into a String[]
+<li>The Swap function.
+<li>Reading a .txt file into a String[].
 </ul>
 Code for <a href="https://github.com/enricguaus/ESMUC-TP1/tree/master/session06">Session 06</a>
+
+<h2>Session 07</h2>
+
+<h3>Concepts</h3>
+<ul>
+<li>Files: Read and write from/to a txt file.
+<li>       Converting String[] to int[] and float[] and vice-versa
+</ul>
+
+<h3>Practice</h3>
+<ul>
+<li>Reading and writting a .txt file.
+<li>Reading a .txt file with numbers.
+<li>Synthesis of a sinusoidal signal into a .txt file.
+</ul>
+Code for <a href="https://github.com/enricguaus/ESMUC-TP1/tree/master/session07">Session 07</a>
