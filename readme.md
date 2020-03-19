@@ -111,3 +111,18 @@ Code for <a href="https://github.com/enricguaus/ESMUC-TP1/tree/master/session06"
 <li>Synthesis of a sinusoidal signal into a .txt file.
 </ul>
 Code for <a href="https://github.com/enricguaus/ESMUC-TP1/tree/master/session07">Session 07</a>
+
+<h2>Session 08</h2>
+
+<h3>Concepts</h3>
+<ul>
+<li>Minim library.
+<li>Presenting P6: FotoSo
+</ul>
+
+<h3>Practice</h3>
+<ul>
+<li>Installation
+<li>Cut'n'paste of the AudioPlayer example from Minim.
+</ul>
+Code for <a href="https://github.com/enricguaus/ESMUC-TP1/tree/master/session07">Session 07</a>
