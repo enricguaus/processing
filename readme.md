@@ -125,4 +125,20 @@ Code for <a href="https://github.com/enricguaus/ESMUC-TP1/tree/master/session07"
 <li>Installation
 <li>Cut'n'paste of the AudioPlayer example from Minim.
 </ul>
-Code for <a href="https://github.com/enricguaus/ESMUC-TP1/tree/master/session07">Session 07</a>
+Code for <a href="https://github.com/enricguaus/ESMUC-TP1/tree/master/session08">Session 08</a>
+
+<h2>Session 09</h2>
+
+<h3>Concepts</h3>
+<ul>
+<li>Minim and the FFT (Fast Fourier Transform).
+<li>Presenting P7: FFT
+</ul>
+
+<h3>Practice</h3>
+<ul>
+<li>Basic concepts of the FFT (frame, overlap, resolution, etc.)
+<li>Declaration, initialization and use: the "forward" method.
+<li>Cut'n'paste of the FFT class example from Minim.
+</ul>
+Code for <a href="https://github.com/enricguaus/ESMUC-TP1/tree/master/session09">Session 09</a>
