@@ -142,3 +142,20 @@ Code for <a href="https://github.com/enricguaus/ESMUC-TP1/tree/master/session08"
 <li>Cut'n'paste of the FFT class example from Minim.
 </ul>
 Code for <a href="https://github.com/enricguaus/ESMUC-TP1/tree/master/session09">Session 09</a>
+
+<h2>Session 10</h2>
+
+<h3>Concepts</h3>
+<ul>
+<li>Minim and uGens.
+<li>Presenting P8: Synthesizer
+</ul>
+
+<h3>Practice</h3>
+<ul>
+<li>The uGens: patch and out
+<li>Oscillators
+<li>Noise
+<li>Filter
+</ul>
+Code for <a href="https://github.com/enricguaus/ESMUC-TP1/tree/master/session10">Session 10</a>
