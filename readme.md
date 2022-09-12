@@ -1,6 +1,7 @@
 <h1>Tècniques de programació informàtica I</h1>
 Enric Guaus<br>
-Sonology Department @ Escola Superior de Música de Catalunya (ESMUC)<br>
+Departament de tecnologies i gestió de la música<br>
+Escola Superior de Música de Catalunya (ESMUC)<br>
 
 
 <h2>Session 01</h2>

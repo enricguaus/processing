@@ -7,7 +7,7 @@
 void setup(){
   size(300,200);
   // writing at the console (useful for debugging)
-  print("hello world!");
+  print("Hello W:orld!");
   // writing at the canvas... (We will usually use this option)
   fill(24,200,150);             // ... with an RGB color ...
   textSize(46);                 // ... with a big font ...
