@@ -6,3 +6,7 @@
 <li>Algorith: Data, functions and control structures.
 <li>Introduction to Processing
 </ul>
+<h2>Lab</h2>
+<ul>
+<li>Install Processing
+</ul>
