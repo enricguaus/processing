@@ -6,7 +6,7 @@
 <li>Algorithm: Data, functions and control structures.
 <li>Introduction to Processing
 </ul>
-<h2>Code>
+<h2>Code</h2>
 <ul>
 <li> <a href="https://github.com/enricguaus/programacio/tree/master/session01/session01a">session01a</a>
 </ul>
