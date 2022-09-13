@@ -13,7 +13,7 @@ Escola Superior de Música de Catalunya (ESMUC)<br>
   </tr>
   <tr>
     <td>03/10/2022</td>
-    <td>Session 01</td>
+    <td><a href="https://github.com/enricguaus/programacio/tree/master/session01">Session 01: Introduction to programming</a></td>
     <td>--</td>
   </tr>
   <tr>
