@@ -23,16 +23,6 @@ Escola Superior de Música de Catalunya (ESMUC)<br>
   </tr>
 </table>
 
-<h2>Session 01</h2>
-
-<h3>Concepts</h3>
-<ul>
-<li>Introduction to programming.
-<li>Interpreted vs Compiled languages.
-<li>Algorithm: Data, functions and control structures.
-<li>Introduction to Processing.
-</ul>
-
 <h2>Session 02</h2>
 
 <h3>Concepts</h3>
