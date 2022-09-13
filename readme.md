@@ -1,8 +1,7 @@
-<h1>Tècniques de programació informàtica I</h1>
+<h1>Fonaments de programació</h1>
 Enric Guaus<br>
 Departament de tecnologies i gestió de la música<br>
 Escola Superior de Música de Catalunya (ESMUC)<br>
-
 
 <h2>Session 01</h2>
 
