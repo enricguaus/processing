@@ -3,13 +3,33 @@ Enric Guaus<br>
 Departament de tecnologies i gestió de la música<br>
 Escola Superior de Música de Catalunya (ESMUC)<br>
 
+<h2>Calendar</h2>
+
+<table>
+  <tr>
+    <th>Date</th>
+    <th>Session</th>
+    <th>Lab</th>
+  </tr>
+  <tr>
+    <td>03/10/2022</td>
+    <td>Session 01</td>
+    <td>--</td>
+  </tr>
+  <tr>
+    <td>10/10/2022</td>
+    <td>Session 02</td>
+    <td>P1 - Hello World</td>
+  </tr>
+</table>
+
 <h2>Session 01</h2>
 
 <h3>Concepts</h3>
 <ul>
 <li>Introduction to programming.
 <li>Interpreted vs Compiled languages.
-<li>Algorith: Data, functions and control structures.
+<li>Algorithm: Data, functions and control structures.
 <li>Introduction to Processing.
 </ul>
 
