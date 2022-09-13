@@ -1,6 +1,6 @@
-<h1>Concepts</h1>
+<h1>Introduction to programming</h1>
 <ul>
-<li>Introduction to programming.
+<li>Why programming.
 <li>Interpreted vs Compiled languages.
 <li>Algorith: Data, functions and control structures.
 <li>Introduction to Processing
