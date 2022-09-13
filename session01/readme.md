@@ -3,7 +3,7 @@
 <ul>
 <li>Why programming.
 <li>Interpreted vs Compiled languages.
-<li>Algorith: Data, functions and control structures.
+<li>Algorithm: Data, functions and control structures.
 <li>Introduction to Processing
 </ul>
 <h2>Lab</h2>
