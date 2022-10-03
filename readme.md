@@ -18,7 +18,7 @@ Escola Superior de Música de Catalunya (ESMUC)<br>
   </tr>
   <tr>
     <td>10/10/2022</td>
-    <td><a href="https://github.com/enricguaus/programacio/tree/master/session02">Session 02: Single variables + Control structure</a></td>
+    <td><a href="https://github.com/enricguaus/programacio/tree/master/session02">Session 02: Single variables + Control structures</a></td>
     <td>P1 - Hello World</td>
   </tr>
 </table>
