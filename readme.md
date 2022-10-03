@@ -18,26 +18,10 @@ Escola Superior de Música de Catalunya (ESMUC)<br>
   </tr>
   <tr>
     <td>10/10/2022</td>
-    <td>Session 02</td>
+    <td><a href="https://github.com/enricguaus/programacio/tree/master/session02">Session 02: Single variables + Control structure</a></td>
     <td>P1 - Hello World</td>
   </tr>
 </table>
-
-<h2>Session 02</h2>
-
-<h3>Concepts</h3>
-<ul>
-<li>Use of References and Internet searches.
-<li>Types of variables: Boolean; Integer; Float; Long; Double.
-<li>Control structures: If-else.
-</ul>
-
-<h3>Practice</h3>
-<ul>
-<li>Declare, Init and Use variables.
-<li>setup() (Only once) draw() (Loop) and keyPressed() (Interrupt) functions.
-</ul>
-Code for <a href="https://github.com/enricguaus/ESMUC-TP1/tree/master/session02">Session 02</a>.
 
 <h2>Session 03</h2>
 
