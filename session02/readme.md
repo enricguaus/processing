@@ -1,4 +1,4 @@
-<h1>Single variables + Control structures</h1>
+<h1>Session02: Single variables + Control structures (Part I)</h1>
 <h2>Concepts</h2>
 <ul>
 <li>Use of References and Internet searches.

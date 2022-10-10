@@ -1,4 +1,4 @@
-<h1>Composite variables + Control structures</h1>
+<h1>Session03: Composite variables + Control structures (Past II)</h1>
 <h2>Concepts</h2>
 <ul>
 <li>Composite variables: Array, Color.
