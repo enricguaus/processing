@@ -18,8 +18,13 @@ Escola Superior de Música de Catalunya (ESMUC)<br>
   </tr>
   <tr>
     <td>10/10/2022</td>
-    <td><a href="https://github.com/enricguaus/programacio/tree/master/session02">Session 02: Single variables + Control structures</a></td>
-    <td>P1 - Hello World</td>
+    <td><a href="https://github.com/enricguaus/programacio/tree/master/session02">Session 02: Single variables + Control structures (Part I)</a></td>
+    <td>L1 - Hello World</td>
+  </tr>
+  <tr>
+    <td>17/10/2022</td>
+    <td><a href="https://github.com/enricguaus/programacio/tree/master/session03">Session 03: Composite variables + Control structures (Part II)</a></td>
+    <td>L2 - Línies, rectangles i cercles</td>
   </tr>
 </table>
 
