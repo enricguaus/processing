@@ -28,22 +28,6 @@ Escola Superior de Música de Catalunya (ESMUC)<br>
   </tr>
 </table>
 
-<h2>Session 03</h2>
-
-<h3>Concepts</h3>
-<ul>
-<li>Types of variables: Array
-<li>Control structures: For; While
-</ul>
-
-<h3>Practice</h3>
-<ul>
-<li>Using arrays and loops for accessing data.
-<li>Flow control in Processing (noLoop, redraw, loop).
-<li>Constants vs Global vs Local variables.
-<li>int() and delay() functions
-</ul>
-Code for <a href="https://github.com/enricguaus/ESMUC-TP1/tree/master/session03">Session 03</a>
 
 <h2>Session 04</h2>
 

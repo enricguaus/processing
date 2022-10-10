@@ -1,6 +1,7 @@
 // Author: Enric Guaus
-// Date: 05/02/2020
-// Course: Tècniques de programació informàtica I (ESMUC)
+// Date: 10/10/2022
+// Course: Fonaments de Programació
+//         Escola Superior de Música de Catalunya
 // Description: Introduces random numbers (0..10) to the students grades.
 // Concepts: Array declaration + Memory allocate + Init + Use
 //           Loops using While

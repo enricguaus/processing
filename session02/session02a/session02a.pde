@@ -1,5 +1,5 @@
 // Author: Enric Guaus
-// Date: 03/10/2021
+// Date: 03/10/2022
 // Course: Fonaments de Programació
 //         Escola Superior de Música de Catalunya
 // Description: "Hello World" printing in the console and the canvas
