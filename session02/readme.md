@@ -15,5 +15,5 @@
 </ul>
 <h2>Lab</h2>
 <ul>
-<li>P1 - Hello World
+<li>L1 - Hello World
 </ul>
