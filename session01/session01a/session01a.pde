@@ -5,4 +5,4 @@
 // Description: First contact with Processing, with the
 //              example in the tutorial
 
-rect(20,30,40,50);
+rect(20,30,50,40);
