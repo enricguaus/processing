@@ -1,4 +1,4 @@
-<h1>Session01: Introduction to programming</h1>
+<h1>Introduction to programming</h1>
 <h2>Concepts</h2>
 <ul>
 <li>Why programming?
