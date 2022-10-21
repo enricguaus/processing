@@ -1,4 +1,4 @@
-<h1>Session04: Introduction to Objects</h1>
+<h1>Chars and Strings</h1>
 <h2>Concepts</h2>
 <ul>
 <li>ASCII table.
