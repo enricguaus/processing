@@ -4,7 +4,6 @@
 <li>Use of References and Internet searches.
 <li>Single variables: Boolean, Integer, Float, Long, Double.
 <li>Control structures: if-else, switch.
-<li>Introduction to Processing.
 </ul>
 <h2>Code</h2>
 <ul>
