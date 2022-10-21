@@ -1,6 +1,7 @@
 // Author: Enric Guaus
-// Date: 12/02/2020
-// Course: Tècniques de programació informàtica I (ESMUC)
+// Date: 21/10/2022
+// Course: Fonaments de Programació
+//         Escola Superior de Música de Catalunya
 // Description: Printing chars and integers (position in the ASCII table) into the console
 //              when pressing a key.
 // Concepts: Chars and ASCII table. The "key" variable.

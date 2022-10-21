@@ -1,6 +1,7 @@
 // Author: Enric Guaus
-// Date: 12/02/2020
-// Course: Tècniques de programació informàtica I (ESMUC)
+// Date: 21/10/2022
+// Course: Fonaments de Programació
+//         Escola Superior de Música de Catalunya
 // Description: Printing String objects (and some of their properties by using its methods) into the console.
 // Concepts: String (introduction to Objects).
 
