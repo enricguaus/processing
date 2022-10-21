@@ -1,4 +1,4 @@
-<h1>Session03: Composite variables + Control structures (Past II)</h1>
+<h1>Composite variables + Control structures (Part II)</h1>
 <h2>Concepts</h2>
 <ul>
 <li>Composite variables: Array, Color.
@@ -6,7 +6,7 @@
 <li>Using arrays and loops for accessing data.
 <li>Flow control in Processing (noLoop, redraw, loop).
 <li>Constants vs Global vs Local variables.
-<li>int() and delay() functions.
+<li>Useful functions: int() and delay().
 </ul>
 <h2>Code</h2>
 <ul>
