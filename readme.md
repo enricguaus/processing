@@ -33,7 +33,7 @@ Escola Superior de Música de Catalunya (ESMUC)<br>
   <tr>
     <td>24/10/2022</td>
     <td>S04</td>
-    <td><a href="https://github.com/enricguaus/programacio/tree/master/session04">Introduction to objects</a></td>
+    <td><a href="https://github.com/enricguaus/programacio/tree/master/session04">Chars and Strings</a></td>
     <td>L3 - Calculadora</td>
   </tr>
 </table>
