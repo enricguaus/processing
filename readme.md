@@ -8,7 +8,7 @@ Escola Superior de Música de Catalunya (ESMUC)<br>
 <table>
   <tr>
     <th>Date</th>
-    <th>ID<(th>
+    <th>ID</th>
     <th>Session</th>
     <th>Lab</th>
   </tr>
