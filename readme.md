@@ -25,6 +25,11 @@ Escola Superior de Música de Catalunya (ESMUC)<br>
     <td>17/10/2022</td>
     <td><a href="https://github.com/enricguaus/programacio/tree/master/session03">Session 03: Composite variables + Control structures (Part II)</a></td>
     <td>L2 - Línies, rectangles i cercles</td>
+</tr>
+  <tr>
+    <td>24/10/2022</td>
+    <td><a href="https://github.com/enricguaus/programacio/tree/master/session04">Session 04: Introduction to objects</a></td>
+    <td>L3 - Calculadora</td>
   </tr>
 </table>
 
