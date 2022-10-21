@@ -8,49 +8,35 @@ Escola Superior de Música de Catalunya (ESMUC)<br>
 <table>
   <tr>
     <th>Date</th>
+    <th>ID<(th>
     <th>Session</th>
     <th>Lab</th>
   </tr>
   <tr>
     <td>03/10/2022</td>
-    <td><a href="https://github.com/enricguaus/programacio/tree/master/session01">Session 01: Introduction to programming</a></td>
+    <td>S01</td>
+    <td><a href="https://github.com/enricguaus/programacio/tree/master/session01">Introduction to programming</a></td>
     <td>--</td>
   </tr>
   <tr>
     <td>10/10/2022</td>
-    <td><a href="https://github.com/enricguaus/programacio/tree/master/session02">Session 02: Single variables + Control structures (Part I)</a></td>
+    <td>S02</td>
+    <td><a href="https://github.com/enricguaus/programacio/tree/master/session02">Single variables + Control structures (Part I)</a></td>
     <td>L1 - Hello World</td>
   </tr>
   <tr>
     <td>17/10/2022</td>
-    <td><a href="https://github.com/enricguaus/programacio/tree/master/session03">Session 03: Composite variables + Control structures (Part II)</a></td>
+    <td>S03</td>
+    <td><a href="https://github.com/enricguaus/programacio/tree/master/session03">Composite variables + Control structures (Part II)</a></td>
     <td>L2 - Línies, rectangles i cercles</td>
 </tr>
   <tr>
     <td>24/10/2022</td>
-    <td><a href="https://github.com/enricguaus/programacio/tree/master/session04">Session 04: Introduction to objects</a></td>
+    <td>S04</td>
+    <td><a href="https://github.com/enricguaus/programacio/tree/master/session04">Introduction to objects</a></td>
     <td>L3 - Calculadora</td>
   </tr>
 </table>
-
-
-<h2>Session 04</h2>
-
-<h3>Concepts</h3>
-<ul>
-<li>Types of variables: Char (and ASCII table) and Strings.
-<li>Objects: Data and methods.
-<li>Control structures: Switch.
-</ul>
-
-<h3>Practice</h3>
-<ul>
-<li>Converting from char to int and viceversa.
-<li>Using Strings as an Array of chars.
-<li>Accessing methods in the String object.
-<li>Using switch with all its options (break, default...).
-</ul>
-Code for <a href="https://github.com/enricguaus/ESMUC-TP1/tree/master/session04">Session 04</a>
 
 <h2>Session 05</h2>
 
