@@ -10,8 +10,9 @@
 </ul>
 <h2>Code</h2>
 <ul>
-<li> <a href="https://github.com/enricguaus/programacio/tree/master/session04/session04a">session05a</a>
-<li> <a href="https://github.com/enricguaus/programacio/tree/master/session04/session04b">session05b</a>
+<li> <a href="https://github.com/enricguaus/programacio/tree/master/session05/session05a">session05a</a>
+<li> <a href="https://github.com/enricguaus/programacio/tree/master/session05/session05b">session05b</a>
+<li> <a href="https://github.com/enricguaus/programacio/tree/master/session05/session05c">session05c</a>
 </ul>
 <h2>Lab</h2>
 <ul>
