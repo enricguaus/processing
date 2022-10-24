@@ -4,6 +4,7 @@
 <li>Implementing functions.
 <li>Parameters vs local vs global variables.
 <li>Recursivity.
+<li>Passing and returning arrays in a function.
 <li>Splitting a project into multiple sketches.
 <li>Adapting code from the Internet.
 </ul>
