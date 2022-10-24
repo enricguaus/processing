@@ -1,6 +1,7 @@
 // Author: Enric Guaus
-// Date: 26/02/2020
-// Course: Tècniques de programació informàtica I (ESMUC)
+// Date: 24/10/2022
+// Course: Fonaments de Programació
+//         Escola Superior de Música de Catalunya
 // Description: Swap function for using Arrays as parameters.
 // Concepts: Arrays as parameters and return in a function.
 
