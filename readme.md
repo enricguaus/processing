@@ -29,37 +29,25 @@ Escola Superior de Música de Catalunya (ESMUC)<br>
     <td>S03</td>
     <td><a href="https://github.com/enricguaus/programacio/tree/master/session03">Composite variables + Control structures (Part II)</a></td>
     <td>L2 - Línies, rectangles i cercles</td>
-</tr>
+  </tr>
   <tr>
     <td>24/10/2022</td>
     <td>S04</td>
     <td><a href="https://github.com/enricguaus/programacio/tree/master/session04">Chars and Strings</a></td>
     <td>L3 - Calculadora</td>
   </tr>
+  <tr>
+    <td>07/11/2022</td>
+    <td>S05</td>
+    <td><a href="https://github.com/enricguaus/programacio/tree/master/session05">Functions and Recursivity</a></td>
+    <td>L4 - Calculadora +</td>
+  </tr>
 </table>
-
-<h2>Session 05</h2>
-
-<h3>Concepts</h3>
-<ul>
-<li>Functions: parameters, return, calling in different contexts...
-<li>Recursivity.
-</ul>
-
-<h3>Practice</h3>
-<ul>
-<li>Implementing functions
-<li>Name of the parameters and local variables.
-<li>Splitting a project into multiple sketches.
-<li>Adapting code from the Internet.
-</ul>
-Code for <a href="https://github.com/enricguaus/ESMUC-TP1/tree/master/session05">Session 05</a>
 
 <h2>Session 06</h2>
 
 <h3>Concepts</h3>
 <ul>
-<li>Functions: Passing and returning arrays in a function.
 <li>Files: Read a txt file.
 </ul>
 
