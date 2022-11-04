@@ -42,37 +42,12 @@ Escola Superior de Música de Catalunya (ESMUC)<br>
     <td><a href="https://github.com/enricguaus/programacio/tree/master/session05">Functions and Recursivity</a></td>
     <td>L4 - Calculadora +</td>
   </tr>
+    <td>14/11/2022</td>
+    <td>S06</td>
+    <td><a href="https://github.com/enricguaus/programacio/tree/master/session06">Files</a></td>
+    <td>L5 - Files</td>
 </table>
 
-<h2>Session 06</h2>
-
-<h3>Concepts</h3>
-<ul>
-<li>Files: Read a txt file.
-</ul>
-
-<h3>Practice</h3>
-<ul>
-<li>The Swap function.
-<li>Reading a .txt file into a String[].
-</ul>
-Code for <a href="https://github.com/enricguaus/ESMUC-TP1/tree/master/session06">Session 06</a>
-
-<h2>Session 07</h2>
-
-<h3>Concepts</h3>
-<ul>
-<li>Files: Read and write from/to a txt file.
-<li>       Converting String[] to int[] and float[] and vice-versa
-</ul>
-
-<h3>Practice</h3>
-<ul>
-<li>Reading and writting a .txt file.
-<li>Reading a .txt file with numbers.
-<li>Synthesis of a sinusoidal signal into a .txt file.
-</ul>
-Code for <a href="https://github.com/enricguaus/ESMUC-TP1/tree/master/session07">Session 07</a>
 
 <h2>Session 08</h2>
 
