@@ -3,8 +3,8 @@
 <ul>
 <li>Read and write a .txt file.
 <li>String to int conversion.
-<li>config.txt files
-<li>Synthesis of a sinusoidal signal.
+<li>config.txt files.
+<li>Sinusoidal synthesis.
 </ul>
 <h2>Code</h2>
 <ul>
