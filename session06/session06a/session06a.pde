@@ -1,8 +1,8 @@
 // Author: Enric Guaus
-// Date: 26/02/2020
-// Course: Tècniques de programació informàtica I (ESMUC)
-// Description: Reading a .txt file.
-// Concepts: Reading a .txt file and print its content into the console.
+// Date: 04/11/2022
+// Course: Fonaments de Programació
+//         Escola Superior de Música de Catalunya
+// Description: Reading a .txt file and print its content into the console.
 
 String fileName="OT_Winners.txt"; // Defining the file to be opened as a String
                                   // By default, this file should be in the "data" folder
