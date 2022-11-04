@@ -9,7 +9,7 @@
 //              - N of Channels (i.e. 2 for Stereo)
 //              and compute the number of samples a .wav file may have.
 
-String[] data = loadStrings("header.txt"); // Declare, initialize and read the file to an array of Strings.
+String[] data = loadStrings("data/config.txt"); // Declare, initialize and read the file to an array of Strings.
 
 int[] numbers = new int[data.length];      // Declare and initialize the integer array "numbers" to store read data.
 int nSamples  = 0;                         // Declare and initialize "nSamples".

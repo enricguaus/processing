@@ -11,7 +11,7 @@
 //              Synthesize a MONO sinusoidal signal
 //              Save the result in a 
 
-String[] lines = loadStrings("header.txt"); // Declare, initialize and read the file to an array of Strings.
+String[] lines = loadStrings("data/config.txt"); // Declare, initialize and read the file to an array of Strings.
 
 int sr=0;            // Declare and initialize global variables.
 int dur=0;
