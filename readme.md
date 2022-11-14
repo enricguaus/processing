@@ -46,23 +46,14 @@ Escola Superior de Música de Catalunya (ESMUC)<br>
     <td>S06</td>
     <td><a href="https://github.com/enricguaus/programacio/tree/master/session06">Files</a></td>
     <td>L5 - Files</td>
+  <tr>
+    <td>21/11/2022</td>
+    <td>S07</td>
+    <td><a href="https://github.com/enricguaus/programacio/tree/master/session07">Libraries + Introduction to Minim</a></td>
+    <td>L6 - FotoSound</td>
+  </tr>
 </table>
 
-
-<h2>Session 08</h2>
-
-<h3>Concepts</h3>
-<ul>
-<li>Minim library.
-<li>Presenting P6: FotoSo
-</ul>
-
-<h3>Practice</h3>
-<ul>
-<li>Installation
-<li>Cut'n'paste of the AudioPlayer example from Minim.
-</ul>
-Code for <a href="https://github.com/enricguaus/ESMUC-TP1/tree/master/session08">Session 08</a>
 
 <h2>Session 09</h2>
 
