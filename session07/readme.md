@@ -7,7 +7,7 @@
 </ul>
 <h2>Code</h2>
 <ul>
-<li> <a href="https://github.com/enricguaus/programacio/tree/master/session07/session07a">session07a</a>
+<li> <a href="https://github.com/enricguaus/programacio/tree/master/session07/session07a">session07a</a> (cut'n'paste from Minim documentation for AudioPlayer)
 </ul>
 <h2>Links</h2>
 <ul>
