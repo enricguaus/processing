@@ -52,24 +52,14 @@ Escola Superior de Música de Catalunya (ESMUC)<br>
     <td><a href="https://github.com/enricguaus/programacio/tree/master/session07">Libraries + Introduction to Minim</a></td>
     <td>L6 - FotoSound</td>
   </tr>
+  <tr>
+    <td>28/11/2022</td>
+    <td>S08</td>
+    <td><a href="https://github.com/enricguaus/programacio/tree/master/session08">FFT + UGens</a></td>
+    <td>L7 - FFT</td>
+  </tr>
 </table>
 
-
-<h2>Session 09</h2>
-
-<h3>Concepts</h3>
-<ul>
-<li>Minim and the FFT (Fast Fourier Transform).
-<li>Presenting P7: FFT
-</ul>
-
-<h3>Practice</h3>
-<ul>
-<li>Basic concepts of the FFT (frame, overlap, resolution, etc.)
-<li>Declaration, initialization and use: the "forward" method.
-<li>Cut'n'paste of the FFT class example from Minim.
-</ul>
-Code for <a href="https://github.com/enricguaus/ESMUC-TP1/tree/master/session09">Session 09</a>
 
 <h2>Session 10</h2>
 
