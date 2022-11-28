@@ -64,5 +64,11 @@ Escola Superior de Música de Catalunya (ESMUC)<br>
     <td><a href="https://github.com/enricguaus/programacio/tree/master/session09">MIDI</a></td>
     <td>L8 - MIDI</td>
   </tr>
+  <tr>
+    <td>12/11/2022</td>
+    <td>S10</td>
+    <td>--</td>
+    <td>A1 - Exam</td>
+  </tr>
 </table>
 
