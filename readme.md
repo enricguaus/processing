@@ -58,22 +58,11 @@ Escola Superior de Música de Catalunya (ESMUC)<br>
     <td><a href="https://github.com/enricguaus/programacio/tree/master/session08">FFT + UGens</a></td>
     <td>L7 - FFT</td>
   </tr>
+  <tr>
+    <td>05/11/2022</td>
+    <td>S09</td>
+    <td><a href="https://github.com/enricguaus/programacio/tree/master/session09">MIDI</a></td>
+    <td>L8 - MIDI</td>
+  </tr>
 </table>
 
-
-<h2>Session 10</h2>
-
-<h3>Concepts</h3>
-<ul>
-<li>Minim and uGens.
-<li>Presenting P8: Synthesizer
-</ul>
-
-<h3>Practice</h3>
-<ul>
-<li>The uGens: patch and out
-<li>Oscillators
-<li>Noise
-<li>Filter
-</ul>
-Code for <a href="https://github.com/enricguaus/ESMUC-TP1/tree/master/session10">Session 10</a>
