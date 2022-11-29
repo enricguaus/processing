@@ -7,7 +7,7 @@
 </ul>
 <h2>Code</h2>
 <ul>
-<li> <a href="https://github.com/enricguaus/programacio/tree/master/session09/session09a">session08a</a> (cut'n'paste from The MidiBus Documentation - Basic)
+<li> <a href="https://github.com/enricguaus/programacio/tree/master/session09/session09a">session09a</a> (cut'n'paste from The MidiBus Documentation - Basic)
 </ul>
 <h2>Links</h2>
 <ul>
@@ -16,5 +16,5 @@
 </ul>
 <h2>Lab</h2>
 <ul>
-<li>MIDI
+<li>Sintetitzador
 </ul>
