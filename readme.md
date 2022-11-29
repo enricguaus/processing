@@ -32,7 +32,7 @@ Escola Superior de Música de Catalunya (ESMUC)<br>
     <td>S03</td>
     <td><a href="https://github.com/enricguaus/programacio/tree/master/session03">Composite variables + Control structures (Part II)</a></td>
     <td>L03</td>
-    <tdLínies, rectangles i cercles</td>
+    <td>Línies, rectangles i cercles</td>
   </tr>
   <tr>
     <td>24/10/2022</td>
