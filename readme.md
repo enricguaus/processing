@@ -79,7 +79,7 @@ Escola Superior de Música de Catalunya (ESMUC)<br>
     <td>S10</td>
     <td>--</td>
     <td>A01</td>
-    <td>Test</td>
+    <td>Exam</td>
   </tr>
 </table>
 
