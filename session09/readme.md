@@ -12,7 +12,7 @@
 <h2>Links</h2>
 <ul>
 <li> <a href="http://www.smallbutdigital.com/projects/themidibus/">The MidiBus</a>
-<li> <a href="https://github.com/sparks/themidibus">the MidiBus - Github</a>
+<li> <a href="https://github.com/sparks/themidibus">The MidiBus - Github</a>
 </ul>
 <h2>Lab</h2>
 <ul>
