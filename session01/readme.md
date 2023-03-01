@@ -15,5 +15,5 @@
 
 ## Lab
 
-* L0 - Install Processing
+* L00 - Install Processing
 
