@@ -4,7 +4,7 @@
 
 * Why programming?
 * Interpreted vs compiled languages.
-* Algorithm: data + instructions
+* Algorithm: data + instructions.
 * Instructions: control structures + functions.
 * Introduction to Processing.
 
