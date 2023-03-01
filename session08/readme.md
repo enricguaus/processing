@@ -1,15 +1,13 @@
-<h1>FFT + UGens</h1>
+<h1>Libraries + Introduction to  Minim</h1>
 <h2>Concepts</h2>
 <ul>
-<li>FFT concepts
-<li>.forward() method.
-<li>UGens.
-<li>.patch() method.
+<li>Installing libraries
+<li>Minim overview.
+<li>Play a file.
 </ul>
 <h2>Code</h2>
 <ul>
-<li> <a href="https://github.com/enricguaus/programacio/tree/master/session08/session08a">session08a</a> (cut'n'paste from Minim documentation for FFT)
-<li> <a href="https://github.com/enricguaus/programacio/tree/master/session08/session08b">session08b</a> (cut'n'paste from Minim documentation for MoogFilter)
+<li> <a href="https://github.com/enricguaus/programacio/tree/master/session07/session07a">session07a</a> (cut'n'paste from Minim documentation for AudioPlayer)
 </ul>
 <h2>Links</h2>
 <ul>
@@ -18,5 +16,5 @@
 </ul>
 <h2>Lab</h2>
 <ul>
-<li>FFT
+<li>FotoSound
 </ul>

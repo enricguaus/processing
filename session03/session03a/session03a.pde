@@ -1,30 +1,16 @@
 // Author: Enric Guaus
-// Date: 10/10/2022
+// Date: 1/3/2023
 // Course: Fonaments de Programació
 //         Escola Superior de Música de Catalunya
-// Description: Introduces random numbers (0..10) to the students grades
-// Concepts: Array declaration + Memory allocate + Init + Use
-//           (non optimal version because we are not using For-While structures)
-//           Introduction to delay() and int() functions;
-//           Use of variables as CONSTANT.
+// Description: Prints "Aprovat" or "Suspens" depending on the qualification.
+// Concepts: Control structures: IF
 
-int N_STUDENTS=4;
+int nota=4;
 
-int [] grade;                   // Array declaration (global)
-
-void setup(){
-  grade = new int[N_STUDENTS];  // Memory allocate
-  grade[0]=0;                   // Initialization
-  grade[1]=0;
-  grade[2]=0;
-  grade[3]=0;
+if(nota>=5){
+  println("Aprovat");
 }
 
-void draw(){
-  grade[0] = int(random(10));   // Using the array
-  grade[1] = int(random(10));
-  grade[2] = int(random(10));
-  grade[3] = int(random(10));
-  println(grade[0], grade[1], grade[2], grade[3]);
-  delay(1000);
+if(nota<5){
+  println("Suspès");
 }
