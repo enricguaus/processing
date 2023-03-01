@@ -1,17 +1,18 @@
-<h1>Introduction to programming</h1>
-<h2>Concepts</h2>
-<ul>
-<li>Why programming?
-<li>Interpreted vs Compiled languages.
-<li>Algorithm: Data + Instructions
-<li>Instructions: Control structures + Functions.
-<li>Introduction to Processing.
-</ul>
-<h2>Code</h2>
-<ul>
-<li> <a href="https://github.com/enricguaus/programacio/tree/master/session01/session01a">session01a</a>
-</ul>
-<h2>Lab</h2>
-<ul>
-<li>Install Processing
-</ul>
+# Introduction to programming
+
+## Concepts
+
+* Why programming?
+* Interpreted vs Compiled languages.
+* Algorithm: Data + Instructions
+* Instructions: Control structures + Functions.
+* Introduction to Processing.
+
+## Code
+
+* [session01a](./session01a)
+
+## Lab
+
+* Install Processing
+
