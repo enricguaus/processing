@@ -1,11 +1,14 @@
 # Fonaments de programació
 Enric Guaus  
 Departament de Tecnologies i Gestió de la Música  
-Escola Superior de Música de Catalunya ([ESMUC](https://www.esmuc.cat/))
+Escola Superior de Música de Catalunya ([ESMUC](https://www.esmuc.cat/))  
 
-Escola Superior de Música de Catalunya (<a href="https://www.esmuc.cat/" target="_blank">ESMUC</a>)<br>
+## Calendar
 
-<h2>Calendar</h2>
+| Date | ID | Session | ID | Lab |
+| --- | --- | --- | --- | --- |
+| 01/02/2023 | S01 | [Introduction to programming](./session01) | L01 | Install processing
+| 08/02/2023 | S02 | [Single variables](./session02) | L02 | Hello World
 
 <table>
   <tr>
@@ -14,13 +17,6 @@ Escola Superior de Música de Catalunya (<a href="https://www.esmuc.cat/" target
     <th>Session</th>
     <th>ID</th>
     <th>Lab</th>
-  </tr>
-  <tr>
-    <td>03/10/2022</td>
-    <td>S01</td>
-    <td><a href="https://github.com/enricguaus/programacio/tree/master/session01">Introduction to programming</a></td>
-    <td>L01</td>
-    <td>Install Processing</td>
   </tr>
   <tr>
     <td>10/10/2022</td>
