@@ -1,18 +1,17 @@
-<h1>Single variables + Control structures (Part I)</h1>
-<h2>Concepts</h2>
-<ul>
-<li>Use of References and Internet searches.
-<li>Single variables: Boolean, Integer, Float, Long, Double.
-<li>Control structures: if-else, switch.
-</ul>
-<h2>Code</h2>
-<ul>
-<li> <a href="https://github.com/enricguaus/programacio/tree/master/session02/session02a">session02a</a>
-<li> <a href="https://github.com/enricguaus/programacio/tree/master/session02/session02b">session02b</a>
-<li> <a href="https://github.com/enricguaus/programacio/tree/master/session02/session02c">session02c</a>
-<li> <a href="https://github.com/enricguaus/programacio/tree/master/session02/session02d">session02d</a>
-</ul>
-<h2>Lab</h2>
-<ul>
-<li>L1 - Hello World
-</ul>
+# Single variables
+
+## Concepts
+
+* Use of References and Internet searches.
+* Single variables: Boolean, Integer, Float, Long, Double.
+
+## Code
+
+* [session02a](./session02a)
+* [session02b](./session02b)
+* [session02c](./session02c)
+* [session02d](./session02d)
+
+## Lab
+
+L1 - Hello World
