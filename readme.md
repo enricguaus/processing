@@ -9,7 +9,7 @@ Escola Superior de Música de Catalunya ([ESMUC](https://www.esmuc.cat/))
 | --- | --- | --- | --- | --- |
 | 01/02/2023 | S01 | [Introduction to programming](./session01) | L00 | Install processing
 | 08/02/2023 | S02 | [Single variables](./session02) | L01 | Hello World
-| 15/02/2023 | S03 | [Control structures (part I)](.session03) | L02 | Línies, rectangles i cercles
+| 15/02/2023 | S03 | [Control structures (part I)](./session03) | L02 | Línies, rectangles i cercles
 
 <table>
   <tr>
