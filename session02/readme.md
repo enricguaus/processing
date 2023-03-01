@@ -2,7 +2,7 @@
 
 ## Concepts
 
-* Use of References and Internet searches.
+* Use of references and Internet searches.
 * Single variables: Boolean, Integer, Float, Long, Double.
 
 ## Code
