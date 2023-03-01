@@ -1,6 +1,7 @@
 # Fonaments de programació
-Enric Guaus
-Departament de Tecnologies i Gestió de la Música
+Enric Guaus  
+Departament de Tecnologies i Gestió de la Música  
+(href="https://www.esmuc.cat/)[Escola superior de Música de Catalunya]  
 Escola Superior de Música de Catalunya (<a href="https://www.esmuc.cat/" target="_blank">ESMUC</a>)<br>
 
 <h2>Calendar</h2>
