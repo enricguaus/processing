@@ -1,6 +1,6 @@
 // Author: Enric Guaus
 // Date: 01/03/2023
-// Course: Tècniques de programació Informàtica I
+// Course: Tècniques de programació informàtica I
 //         Escola Superior de Música de Catalunya
 // Description: Introducing the draw() function. 
 //              Global variables. 

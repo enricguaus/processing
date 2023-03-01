@@ -1,6 +1,6 @@
 // Author: Enric Guaus
 // Date: 01/03/2023
-// Course: Tècniques de programació Informàtica I
+// Course: Tècniques de programació informàtica I
 //         Escola Superior de Música de Catalunya
 // Description: "Hello World" printing in the console and the canvas
 //              with some formating options. 
