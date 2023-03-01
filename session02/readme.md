@@ -14,4 +14,4 @@
 
 ## Lab
 
-L1 - Hello World
+L01 - Hello World
