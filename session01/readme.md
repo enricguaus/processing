@@ -1,6 +1,6 @@
 # Introduction to programming
 
-## Concepts
+## Concepts
 
 * Why programming?
 * Interpreted vs compiled languages.
@@ -8,7 +8,8 @@
 * Instructions: control structures + functions.
 * Introduction to Processing.
 
-## Code
+
+## Code
 
 * [session01a](./session01a)
 
