@@ -17,4 +17,4 @@
 
 ## Lab
 
-L2 - Línies, rectangles i cercles
+L02 - Línies, rectangles i cercles
