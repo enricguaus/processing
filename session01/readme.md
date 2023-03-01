@@ -3,9 +3,9 @@
 ## Concepts
 
 * Why programming?
-* Interpreted vs Compiled languages.
-* Algorithm: Data + Instructions
-* Instructions: Control structures + Functions.
+* Interpreted vs compiled languages.
+* Algorithm: data + instructions
+* Instructions: control structures + functions.
 * Introduction to Processing.
 
 ## Code
