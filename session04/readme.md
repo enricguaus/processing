@@ -1,21 +1,22 @@
-<h1>Composite variables + Control structures (Part II)</h1>
-<h2>Concepts</h2>
-<ul>
-<li>Composite variables: Array, Color.
-<li>Control structures: For, While.
-<li>Using arrays and loops for accessing data.
-<li>Flow control in Processing (noLoop, redraw, loop).
-<li>Constants vs Global vs Local variables.
-<li>Useful functions: int() and delay().
-</ul>
-<h2>Code</h2>
-<ul>
-<li> <a href="https://github.com/enricguaus/programacio/tree/master/session03/session03a">session03a</a>
-<li> <a href="https://github.com/enricguaus/programacio/tree/master/session03/session03b">session03b</a>
-<li> <a href="https://github.com/enricguaus/programacio/tree/master/session03/session03c">session03c</a>
-<li> <a href="https://github.com/enricguaus/programacio/tree/master/session03/session03d">session03d</a>
-</ul>
-<h2>Lab</h2>
-<ul>
-<li>L2 - Línies, rectangles i cercles
-</ul>
+# Composite variables + Control structures (Part II).
+
+## Concepts
+
+* Composite variables: Array, Color.
+* Control structures: For, While.
+* Using arrays and loops for accessing data.
+* Flow control in Processing (noLoop, redraw, loop).
+* Constants vs Global vs Local variables.
+* Useful functions: int() and delay().
+
+## Code
+
+* [session04a](./session04a)
+* [session04b](./session04b)
+* [session04c](./session04c)
+* [session04d](./session04d)
+
+
+## Lab
+
+L03 - Calculadora
