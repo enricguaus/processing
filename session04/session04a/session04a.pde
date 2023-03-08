@@ -1,6 +1,6 @@
 // Author: Enric Guaus
-// Date: 10/10/2022
-// Course: Fonaments de Programació
+// Date: 5/03/2023
+// Course: Tècniques de programació informàtica I
 //         Escola Superior de Música de Catalunya
 // Description: Introduces random numbers (0..10) to the students grades
 // Concepts: Array declaration + Memory allocate + Init + Use
