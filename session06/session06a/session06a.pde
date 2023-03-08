@@ -1,6 +1,6 @@
 // Author: Enric Guaus
-// Date: 21/10/2022
-// Course: Fonaments de Programació
+// Date: 10/03/2023
+// Course: Tècniques de programació informàtica I
 //         Escola Superior de Música de Catalunya
 // Description: Printing chars and integers (position in the ASCII table) into the console
 //              when pressing a key.
