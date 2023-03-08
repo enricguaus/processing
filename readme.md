@@ -11,9 +11,8 @@ Escola Superior de Música de Catalunya ([ESMUC](https://www.esmuc.cat/))
 | 08/02/2023 | S02 | [Single variables](./session02) | L01 | Hello World
 | 15/02/2023 | S03 | [Control structures (part I)](./session03) | L02 | Línies, rectangles i cercles
 | 22/02/2023 | S04 | [Composite variables + Control structures (part I)](./session04) | L03 | Calculadora
-| 22/02/2023 | S04 | [Composite variables + Control structures (part I)](./session04) | L03 | Calculadora
 | 01/03/2023 | S05 | [Functions and Recursivity](./session05) | L04 | Calculadora+
-| 08/03/2023 | S06 | [Chars and Strings](./session05) | -- | --
+| 08/03/2023 | S06 | [Chars and Strings](./session06) | -- | --
 
 <table>
   <tr>
