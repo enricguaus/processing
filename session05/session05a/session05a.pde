@@ -1,8 +1,6 @@
 // Author: Enric Guaus
-// Date: 19/02/2020
-// Author: Enric Guaus
-// Date: 24/10/2022
-// Course: Fonaments de Programació
+// Date: 8/03/2023
+// Course: Tècniques de programació informàtica I
 //         Escola Superior de Música de Catalunya
 // Description: Computing "sum" and "mult" by using our own functions.
 // Concepts: Functions, parameters, return, calling with different contexts.

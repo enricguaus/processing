@@ -1,6 +1,6 @@
 // Author: Enric Guaus
-// Date: 24/10/2022
-// Course: Fonaments de Programació
+// Date: 8/03/2023
+// Course: Tècniques de programació informàtica I
 //         Escola Superior de Música de Catalunya
 // Description: Computing "factorial" using recursion and 
 //              our own functions in a separate sketch.
