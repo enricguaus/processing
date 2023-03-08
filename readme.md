@@ -11,6 +11,9 @@ Escola Superior de Música de Catalunya ([ESMUC](https://www.esmuc.cat/))
 | 08/02/2023 | S02 | [Single variables](./session02) | L01 | Hello World
 | 15/02/2023 | S03 | [Control structures (part I)](./session03) | L02 | Línies, rectangles i cercles
 | 22/02/2023 | S04 | [Composite variables + Control structures (part I)](./session04) | L03 | Calculadora
+| 22/02/2023 | S04 | [Composite variables + Control structures (part I)](./session04) | L03 | Calculadora
+| 01/03/2023 | S05 | [Functions and Recursivity](./session05) | L04 | Calculadora+
+| 08/03/2023 | S06 | [Chars and Strings](./session05) | -- | --
 
 <table>
   <tr>
@@ -20,19 +23,6 @@ Escola Superior de Música de Catalunya ([ESMUC](https://www.esmuc.cat/))
     <th>ID</th>
     <th>Lab</th>
   </tr>
-  <tr>
-    <td>24/10/2022</td>
-    <td>S04</td>
-    <td><a href="https://github.com/enricguaus/programacio/tree/master/session04">Chars and Strings</a></td>
-    <td>L04</td>
-    <td>Calculadora</td>
-  </tr>
-  <tr>
-    <td>07/11/2022</td>
-    <td>S05</td>
-    <td><a href="https://github.com/enricguaus/programacio/tree/master/session05">Functions and Recursivity</a></td>
-    <td>L05</td>
-    <td>Calculadora +</td>
   </tr>
     <td>14/11/2022</td>
     <td>S06</td>
