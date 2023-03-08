@@ -10,6 +10,7 @@ Escola Superior de Música de Catalunya ([ESMUC](https://www.esmuc.cat/))
 | 01/02/2023 | S01 | [Introduction to programming](./session01) | L00 | Install processing
 | 08/02/2023 | S02 | [Single variables](./session02) | L01 | Hello World
 | 15/02/2023 | S03 | [Control structures (part I)](./session03) | L02 | Línies, rectangles i cercles
+| 22/02/2023 | S04 | [Composite variables + Control structures (part I)](./session04) | L03 | Calculadora
 
 <table>
   <tr>
@@ -18,13 +19,6 @@ Escola Superior de Música de Catalunya ([ESMUC](https://www.esmuc.cat/))
     <th>Session</th>
     <th>ID</th>
     <th>Lab</th>
-  </tr>
-  <tr>
-    <td>17/10/2022</td>
-    <td>S03</td>
-    <td><a href="https://github.com/enricguaus/programacio/tree/master/session03">Composite variables + Control structures (Part II)</a></td>
-    <td>L03</td>
-    <td>Línies, rectangles i cercles</td>
   </tr>
   <tr>
     <td>24/10/2022</td>
