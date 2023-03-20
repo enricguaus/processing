@@ -1,4 +1,4 @@
-# Files
+# Files
 
 ## Concepts
 
@@ -7,14 +7,14 @@
 * config.txt files.
 * Sinusoidal synthesis.
 
-##Code
+## Code
 
 * [session07a](./session07a)
 * [session07b](./session07b)
 * [session07c](./session07c)
 * [session07d](./session07d)
 
-## Lab
+## Lab
 
 * L05 - Fitxers
 
