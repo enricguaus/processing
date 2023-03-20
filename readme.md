@@ -18,41 +18,7 @@ Escola Superior de Música de Catalunya ([ESMUC](https://www.esmuc.cat/))
 | 12/04/2023 | S09 | [FFT + UGens](./session09) | L07 | FFT
 | 19/04/2023 | S10 | [MIDI](./session10) | L08 | Sintetitzador
 
-<table>
-  <tr>
-    <th>Date</th>
-    <th>ID</th>
-    <th>Session</th>
-    <th>ID</th>
-    <th>Lab</th>
-  </tr>
-  <tr>
-    <td>21/11/2022</td>
-    <td>S07</td>
-    <td><a href="https://github.com/enricguaus/programacio/tree/master/session07">Libraries + Introduction to Minim</a></td>
-    <td>L07</td>
-    <td>FotoSound</td>
-  </tr>
-  <tr>
-    <td>28/11/2022</td>
-    <td>S08</td>
-    <td><a href="https://github.com/enricguaus/programacio/tree/master/session08">FFT + UGens</a></td>
-    <td>L08</td>
-    <td>FFT</td>
-  </tr>
-  <tr>
-    <td>05/11/2022</td>
-    <td>S09</td>
-    <td><a href="https://github.com/enricguaus/programacio/tree/master/session09">MIDI</a></td>
-    <td>L09</td>
-    <td>Sintetitzador</td>
-  </tr>
-  <tr>
-    <td>12/11/2022</td>
-    <td>S10</td>
-    <td>--</td>
-    <td>A01</td>
-    <td>Exam</td>
-  </tr>
-</table>
+## Links
 
+* [Processing](https://processing.org/)
+* [Open Processing](https://openprocessing.org/)
