@@ -14,7 +14,7 @@ Escola Superior de Música de Catalunya ([ESMUC](https://www.esmuc.cat/))
 | 01/03/2023 | S05 | [Functions and Recursivity](./session05) | L04 | Calculadora+
 | 08/03/2023 | S06 | [Chars and Strings](./session06) | -- | --
 | 15/03/2023 | S07 | [Files](./session07) | L05 | Files
-| 29/03/2023 | S08 | [Libraries + Minim](./session08) | L06 | FotoSound
+| 29/03/2023 | S08 | [Libraries + Introduction to Minim](./session08) | L06 | FotoSound
 | 12/04/2023 | S09 | [FFT + UGens](./session09) | L07 | FFT
 | 19/04/2023 | S10 | [MIDI](./session10) | L08 | Sintetitzador
 
