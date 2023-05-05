@@ -22,7 +22,7 @@ void setup() {
   //                 Parent  In        Out
   //                   |     |          |
   myBus = new MidiBus(this, -1, "Java Sound Synthesizer"); // Create a new MidiBus with no input device and the default Java Sound Synthesizer as the output device.
-  myBus = new MidiBus(this, -1, 1); // Create a new MidiBus with no input device and the default Java Sound Synthesizer as the output device.
+  myBus = new MidiBus(this, -1, 2); // Create a new MidiBus with no input device and the default Java Sound Synthesizer as the output device.
 }
 
 void draw() {
